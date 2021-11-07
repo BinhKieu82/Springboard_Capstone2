@@ -1,7 +1,10 @@
-*.pdf
 notebooks/README.md
 Capstone2 Project.pptx
 /data
+/templates
 /notebooks/library/
 /notebooks/car_accident.ipynb
 *.png
+*.docx
+Capstone_Two_Step_2__Data_Wrangling.pdf
+Capstone_Two_Step_0__Project_Ideas_.pdf
